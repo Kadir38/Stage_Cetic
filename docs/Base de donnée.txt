@@ -1,7 +1,7 @@
-Pour ce projet, 2 bases de données en été utilisées. 
+Pour ce projet, deux bases de données ont été utilisées.
 
-Le premier contenait 4 patients, 2 pour l'entraînement, 1 pour la validation et 1 pour le test.
+La première contenait 4 patients : 2 pour l'entraînement, 1 pour la validation et 1 pour le test.
 Voici son lien : https://www.kaggle.com/datasets/kmader/finding-lungs-in-ct-data
 
-Le second contenait 128 patients et est appelé Lung250M-4B
+La seconde contenait 128 patients et est appelée Lung250M-4B.
 Voici son lien : https://cloud.imi.uni-luebeck.de/s/s64fqbPpXNexBPP
